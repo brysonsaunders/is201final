@@ -1,0 +1,30 @@
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 60px;
+    border-bottom: solid 1px grey;
+    margin: auto;
+    font-style: italic;
+    background-color: rgb(235, 198, 198);
+    
+}
+
+.mainbody {
+    left: 5px;
+    right: 5px;
+    border-bottom: solid 1px grey;
+    margin: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(190, 252, 231);
+}
+
+.footer {
+    left: 5px;
+    right: 5px;
+    text-align: center;
+    font-size: large;
+    margin: auto;
+    background-color: greenyellow;
+    font-weight: bold;
+}

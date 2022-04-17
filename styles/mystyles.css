@@ -1,0 +1,29 @@
+.resumeheadings {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+}
+.resumeinside {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.contactcolor {
+    color: blueviolet;
+}
+
+p {
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.copyright {
+    color:rgb(144, 113, 173);
+}
+
+a {
+    font-stretch: semi-condensed;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
